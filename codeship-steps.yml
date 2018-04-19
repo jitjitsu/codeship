@@ -1,4 +1,4 @@
-- name: dock
+- name: app
   tag: master
-  service: dock
+  service: app
   command: echo ls
