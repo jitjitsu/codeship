@@ -1,4 +1,4 @@
 - name: dock
   tag: master
-  service: dick
+  service: dock
   command: echo ls
